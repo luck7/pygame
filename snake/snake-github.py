@@ -1,3 +1,6 @@
+'''
+https://github.com/patrickloeber/python-fun/tree/master/snake-pygame
+'''
 import pygame
 import random
 from enum import Enum
